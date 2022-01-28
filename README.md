@@ -1,5 +1,5 @@
 # Title: All-Roomer
-All-Roomer is like an all-nighter, except it contains everything you need to stay in your room all day. 
+All-Roomer is like an all-nighter, except it contains your favorite videos, shows, and songs that you need to stay in your room all day. 
 
 # What and why?
 All-Roomer compiles your favorite YouTube videos, Netflix shows, Spotify songs, and more so you never have to leave your room. It organizes everything on one site so there is no need to switch programs or sign in to multiple different accounts to access videos/shows/songs. This saves time and makes enjoyment at home a lot more convenient. 
