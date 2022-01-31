@@ -10,4 +10,4 @@ This software is intended for anyone applying to a job/internship.
 The programmer can teach the manager the steps necessary to submit a job application, and then the manager will be able to execute this task on its own. The manager also needs to support file I/O to store the resume/CV. Lastly, the manager needs a database to store all submitted applications in an organized manner. The manager can add a new row to the database for every application submission that includes the company name, position/role, date applied, etc. 
 
 # Scope
-This project is definitely suitable for a group of 4-6 people. The programmers need to support file I/O, button clicks (for submitting an application), and automatically adding records into a database.  
+This project is definitely suitable for a group of 4-6 people. The programmers need to support file I/O, button clicks (for submitting an application), and automatically adding records into a database. These are all features that are not too simple or too difficult to implement. File I/O might be a relatively familiar concept, while making a program to click buttons and add entires into a database might be new concepts.
