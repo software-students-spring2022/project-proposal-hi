@@ -1,14 +1,13 @@
-# Title: All-Roomer
-All-Roomer is like an all-nighter, except it contains your favorite videos, shows, and songs that you need to stay in your room all day. 
+# Title: Job/Internship Manager
 
 # What and why?
-All-Roomer compiles your favorite YouTube videos, Netflix shows, Spotify songs, and more so you never have to leave your room. It organizes everything on one site so there is no need to switch programs or sign in to multiple different accounts to access videos/shows/songs. This saves time and makes enjoyment at home more convenient. 
+The Job/Internship Manager keep tracks of all the companies that someone has applied to. The user no longer has to manually keep track of their application in Excel or Google Sheets since this manager will automate this process. Applying to jobs/internships can be a repetitive process. Since machines execute repetitive processes much better than humans, this manager can auto-apply to companies with an attached resume/CV. This saves the user time and allows them to go back to leetcoding. 
 
 # For whom?
-This software is intended for people of all ages who have free time or like staying indoors. The appeal of this software may be to young people who are very familiar with YouTube, Netflix, and Spotify. 
+This software is intended for anyone applying to a job/internship. 
 
 # How?
-All-Roomer will be a GUI that compiles and organzies YouTube videos, Netflix shows, and Spotify songs in their own sections. There will be a sidebar that allows the user to naviagate between the different sections. There will also be a search bar at the top of the interface that allows the user to search for any video, show, or song. The user can play multiple forms of media (videos, shows, songs) at once. For example, the user can play a Spotify song in the background while watching a YouTube video, with the duration/volume bar of the song accessible directly underneath the video. 
+The programmer can teach the manager the steps necessary to submit a job application, and then the manager will be able to execute this task on its own. The manager also needs to support file I/O to store the resume/CV. Lastly, the manager needs a database to store all submitted applications in an organized manner. The manager can add a new row to the database for every application submission that includes the company name, position/role, date applied, etc. 
 
 # Scope
-This project is definitely suitable for a group of 4-6 people since it is mostly front-end work. The shows, videos, and songs will be fetched from their respective APIs. The programmer's main job is to organize this fetched data and render it in a user-friendly manner. 
+This project is definitely suitable for a group of 4-6 people. The programmers need to support file I/O, button clicks (for submitting an application), and automatically adding records into a database.  
